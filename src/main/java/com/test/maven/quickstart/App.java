@@ -3,7 +3,7 @@ package com.test.maven.quickstart;
 import javax.swing.JOptionPane;
 
 /**
- * Hello world!
+ * Hello world Project!
  *
  */
 public class App 
